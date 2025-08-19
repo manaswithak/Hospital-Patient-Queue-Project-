@@ -28,6 +28,7 @@ Outpatient departments (OPD) where patients queue for general consultation.
 
 
 #OUTPUT
+
 ==== Hospital Patient Queue ====
 1. Add Patient
 2. Serve Next Patient
